@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ksomnath64
 - 👀 I’m interested in ... Website Development
 - 🌱 I’m currently learning ... Wordpress
-- 💞️ I’m looking to collaborate on ...  Wordpress Them and Plugin Development
+- 💞️ I’m looking to collaborate on ...  Wordpress Theme and Plugin Development
 - 📫 How to reach me ... email me ksomnath64@gmail.com 
 
 <!---
